@@ -1,4 +1,4 @@
-# DIY FPV Drone Build
+# FPV Drone
 
 This repository documents my journey building a 5-inch Analog Freestyle Drone from scratch.
 
